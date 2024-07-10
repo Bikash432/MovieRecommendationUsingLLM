@@ -1,6 +1,4 @@
-# Bikash-Thapa-Magar
-The website describing Bikash Thapa Magar.
-I am Bikash Thapa Magar from Birtangar,Nepal.
-I am a software Engineer working with Infosys.
-I live in Bangalore,India.
-I am a desent and dedicated personality.
+This is the movie recommendation system. It has been created with the movie datatset of Nextflix from Kaggle.
+The technology used is python,pandas,matplotlib,sklearn and many machine learning algorithms.
+It was a hackathon (EHACKS- 2023 ) project where my team scored a winning position.
+I am sharing the .ipynb files which can be viewed to develop and understand the projects.
