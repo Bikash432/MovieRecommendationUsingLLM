@@ -3,6 +3,8 @@ The Movie Recommendation System is an intelligent project built to recommend mov
 
 
 🌟 Project Highlights
+
+
 Hackathon Winner: Award-winning project at EHACKS 2023.
 Data-Driven Recommendations: Provides relevant movie recommendations based on user data analysis.
 Machine Learning Integration: Utilizes advanced machine learning algorithms for accuracy.
